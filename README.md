@@ -1,0 +1,1 @@
+# SQL_Adhoc_Consumer_Electronic_Goods_Analysis
